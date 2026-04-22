@@ -81,7 +81,8 @@ An interactive dashboard was created using Power BI to visualize:
 - Top companies by layoffs
 - Funding vs layoffs relationship
 
-![Dashboard](dashboard/powerbi_dashboard.png)
+https://docs.google.com/presentation/d/1_xjiRNjCr5wH4xLKeX8OOpemfXaUfSeD/edit?usp=sharing&ouid=112296142526925529697&rtpof=true&sd=true
+
 
 ---
 
