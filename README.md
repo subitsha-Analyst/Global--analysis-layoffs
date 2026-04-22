@@ -14,6 +14,7 @@ The goal of this project is to extract meaningful insights using data analytics 
 - Study layoff trends over time
 - Understand the relationship between funding and layoffs
 
+
 ---
 
 ## 📂 Dataset Information
